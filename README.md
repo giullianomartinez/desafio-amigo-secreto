@@ -5,6 +5,7 @@
 ---
 
 ##  Vista previa
+![Vista previa de Amigo Secreto](./ss-amigo-secreto.png)
 
 Accede a la aplicación en vivo en:  
 **https://giullianomartinez.github.io/desafio-amigo-secreto/**  
@@ -41,7 +42,7 @@ Para probar o desarrollar en tu equipo:
 
 4. ¡Listo! Comienza a agregar nombres y sortear tu Amigo Secreto.
 
-💻 Funcionalidades
+## Funcionalidades
 
 Agregar nombres: escribe un nombre y haz clic en "Añadir".
 
