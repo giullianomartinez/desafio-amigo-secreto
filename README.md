@@ -33,15 +33,15 @@ Para probar o desarrollar en tu equipo:
    git clone https://github.com/giullianomartinez/desafio-amigo-secreto.git
 
 2. Entra al directorio:
-
-cd desafio-amigo-secreto
+   ```bash
+   cd desafio-amigo-secreto
 
 
 3. Abre el archivo index.html en tu navegador (Firefox, Chrome, Safari o similares).
 
 4. ¡Listo! Comienza a agregar nombres y sortear tu Amigo Secreto.
 
-Funcionalidades
+💻 Funcionalidades
 
 Agregar nombres: escribe un nombre y haz clic en "Añadir".
 
