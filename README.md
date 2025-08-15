@@ -9,7 +9,8 @@
 
 Accede a la aplicación en vivo en:  
 **https://giullianomartinez.github.io/desafio-amigo-secreto/**  
-La interfaz te permite ingresar nombres, agregarlos a una lista y realizar el sorteo con solo un clic. ([giullianomartinez.github.io](https://giullianomartinez.github.io/desafio-amigo-secreto/))
+
+La interfaz te permite ingresar nombres, agregarlos a una lista y realizar el sorteo con solo un clic.
 
 ---
 
@@ -51,3 +52,9 @@ Mostrar lista: verás una lista dinámica con todos los nombres ingresados.
 Sorteo aleatorio: haz clic en el botón "Sortear amigo" para revelar el nombre ganador.
 
 Validaciones básicas: no se permiten entradas vacías ni duplicados (si lo implementas).
+
+## 👨‍💻 Sobre el creador
+
+Proyecto desarrollado por Giulliano Martínez
+
+Más proyectos en: **https://github.com/giullianomartinez**
