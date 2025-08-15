@@ -5,7 +5,7 @@
 ---
 
 ##  Vista previa
-![Vista previa de Amigo Secreto](./ss-amigo-secreto.png)
+![Vista previa de Amigo Secreto](./ss-amigo-secreto.jpeg)
 
 Accede a la aplicación en vivo en:  
 **https://giullianomartinez.github.io/desafio-amigo-secreto/**  
