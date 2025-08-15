@@ -5,7 +5,7 @@
 ---
 
 ##  Vista previa
-![Vista previa de Amigo Secreto](./ss-amigo-secreto.jpeg)
+<img src="./ss-amigo-secreto.jpeg" alt="Vista previa de Amigo Secreto" width="600"/>
 
 Accede a la aplicación en vivo en:  
 **https://giullianomartinez.github.io/desafio-amigo-secreto/**  
