@@ -38,6 +38,7 @@ function sortearAmigo() {
     if (numSorteados.length == amigos.length) {
         alert("Se sortearon todos los nombres");
         limpiarListaAmigos();
+        reiniciarSorteo();
         return;
     }
 
@@ -57,4 +58,10 @@ function limpiarListaAmigos() {
     lista.innerHTML = "";
 }
 
-
+function reiniciarSorteo() {
+    amigos = [];
+    numSorteados = [];
+    document.getElementById("listaAmigos").innerHTML = "";
+    document.getElementById("resultado").innerHTML = "";
+    document.getElementById("amigo").value = "";
+}
