@@ -37,6 +37,7 @@ function sortearAmigo() {
 
     if (numSorteados.length == amigos.length) {
         alert("Se sortearon todos los nombres");
+        limpiarListaAmigos();
         return;
     }
 
@@ -49,3 +50,11 @@ function sortearAmigo() {
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = ` Tu amigo secreto es: ${amigoSorteado}`;
 }
+
+
+function limpiarListaAmigos() {
+    let lista = document.getElementById("listaAmigos");
+    lista.innerHTML = "";
+}
+
+
